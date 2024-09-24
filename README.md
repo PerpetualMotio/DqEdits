@@ -1,2 +1,2 @@
 # DqEdits
-A website about the user who created the code.
+Welcome to the creative world of [Artist Name]. Explore projects by him, and more info. Thank you for visiting! Over and out buckos.
