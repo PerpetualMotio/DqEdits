@@ -13,12 +13,15 @@ header {
     position: fixed;
     top: -100px; /* Start off-screen */
     width: 100%;
-    animation: slideIn 1s forwards; /* Animation */
+    animation: slideIn 0.5s forwards; /* Shortened animation */
 }
 
 @keyframes slideIn {
+    from {
+        top: -100px; /* Start position */
+    }
     to {
-        top: 0; /* Move into view */
+        top: 0; /* End position */
     }
 }
 
